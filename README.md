@@ -1,6 +1,6 @@
 # p5.js Project ASCII Text Video
 
-This project was created using [p5.js](https://p5js.org/) and JavaScript, following a tutorial from [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw). The goal of the project was to create a video made with ASCII.
+This project was created using [p5.js](https://p5js.org/) and JavaScript, following a tutorial from [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw). The goal of the project was to create a video stream made with ASCII.
 
 ## Getting Started
 To run the project, simply open the `index.html` file in a web browser. All of the necessary files are included in the repository.
